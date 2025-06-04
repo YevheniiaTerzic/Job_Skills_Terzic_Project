@@ -1,8 +1,8 @@
 # Overview
 
-Welcome to my unique Python project, where I analyze how to position yourself for success in the data job market, to answer one key question: "What should you do to land a high-paying data job in Europe?"
+Welcome to my unique Python project, where I analyze data job market, to answer one key question: "What should you do to land a high-paying data job in Europe?"
 
-In this analysis, I explore data-related roles across the world, identifying the most in-demand positions, the key technologies you need to know, and the factors that influence salary levels. My goal is to provide data-driven insights for anyone aiming to grow their career in data — especially in the European market. 
+In this analysis, I explore data-related roles across the world and particulary in Europe, identifying the most in-demand positions, the key technologies you need to know, and the factors that influence salary levels. My goal is to provide data-driven insights for anyone aiming to grow their career in data — especially in the European market. 
 
 # The Questions
 

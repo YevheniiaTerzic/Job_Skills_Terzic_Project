@@ -11,7 +11,7 @@ I analyze data-related roles worldwide, with a focus on Europe, to identify the 
 3. Which skills and job features have the biggest impact on salary?
 
 ## The Data
-The main dataset sourced from [Luke Barousse's Python Course](https://lukebarousse.com/python) provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. 
+The main dataset sourced from [Data Jobs by Luke Barousse](https://lukebarousse.com/python) provides a foundation for my analysis, containing detailed information on job titles, salaries, locations, and essential skills. 
 
 Additionally, I have used a dictionary of European Union countries in CSV format to separate EU region job postings for my analysis. 
 

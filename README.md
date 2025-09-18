@@ -1,8 +1,8 @@
 # Job Skills Terzic Project
 
 This project consists of two parts: 
-- Data Jobs Terzic Project
-- Job Transition Terzic Project
+- Data Jobs
+- Job Transition
 
 The first one explores **how to land a high-paying data job in Europe** using data-driven insights from global job postings. While the second one uncovers **ways to boost you career and raise the salary** throught transition into more skilled and payed role.
 
@@ -52,21 +52,32 @@ In future analysis, we’ll investigate how professionals can **transition from 
 ## Overview
 This project explores **how professionals can transition from Data Analyst to Data Scientist**, as Data Scientist stands out with strong future potential — it’s the most in-demand role in the US, second in Europe, and offers the highest pay with room for salary growth in the EU. We'll explore skill development paths and salary growth projections.
 
-I analyze data-related roles worldwide, with a focus on Europe, to identify the most in-demand positions, what they pay, and the factors that drive salary differences. The goal is to provide actionable, data-driven insights for anyone looking to grow their career in data, especially in the European market. 
-
 ## The Questions
 1. What Skills Do You Need to Transition from Data Analyst to Data Scientist?
 2. What salary could get a candidate after transition?
 
 **Key findings:**
-Salary Gap - Data Scientists earn ~40% more than Data Analysts, with a wider salary range indicating more specialization-driven pay differences.
-- Skills Matter - More required skills correlate with higher pay.
-On average, Data Scientists require about 6 skills per job posting, while Data Analysts require about 4.
-- The common top skills for Data Analysts and Data Scientists are SQL, Python and Tableau. These skills are also the most impactful on salary. 
-- **Python, SQL, and Tableau** are essential for both roles.
-- Excel, fundamental for Data Analysts, is less important for Data Scientists, so no need develop this skill when you are looking for the transition.
-- Instead focus on learning **R, Spark, and AWS** that'll help to sucseed Data Scientist role requirement.
+**Salary Advantage for Data Scientists**
+- Data Scientists earn ~40% more than Data Analysts, with salaries spanning a wider range.
+- This reflects higher specialization and demand for advanced skills.
 
-Also take into account that you don't need focuse on Tableau if you as a Data Analyst aleady know Power BI or Looker as powerful data visualization tools. Moreover, optionaly you can choose SAS instead of R as statistical analysis tools, Azure instead of AWS as cloud platforms, Tensorflow or Pytorch instead of Spark that are more focuced ML and deeplearning than big data processing.
+**Skills Drive Salary Growth**
+- Job postings requiring more skills tend to offer higher salaries.
+- Core skills like Python, SQL, and Tableau/Power BI/Looker are shared across roles and are also the most influential in salary predictions.
+- Transition-critical knowlege includes cloud (AWS/Azure), statistical (R/SAS), and advanced ML tools (Spark/TensorFlow/PyTorch).
+
+**Career Transition Path**
+- Data Analysts typically need 4 skills, while Data Scientists list 6.
+- By adding just three high-value skills (e.g., R/SAS, AWS/Azure and Spark/TensorFlow/PyTorch) to an existing Analyst skillset, candidates can meet most Data Scientist requirements.
+
+**Predictive Modeling Insights**
+- An XGBoost model was trained on skill and job attributes to estimate salaries.
+- Candidate simulation showed that a transitioning Data Analyst, with the right upskilling, could realistically secure a Data Scientist salary above market median.
+
+# Project Summary
+
+For job seekers, starting as a **Data Analyst** offers an accessible and strategic entry point into the data industry. Over time, expanding technical capabilities and transitioning toward **Data Science** roles can open up higher-paying and more specialized career paths. 
+
+Focusing on languages like R or SAS, cloud platforms such as AWS/Azure, and machine learning frameworks like TensorFlow or PyTorch provides the leverage to move into **Data Science** roles with strong salary growth potential.
 
 **Thanks for reading — and feel free to ⭐ the project or leave feedback on GitHub if you found it helpful!**

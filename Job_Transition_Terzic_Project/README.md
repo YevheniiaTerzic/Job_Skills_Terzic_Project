@@ -112,6 +112,6 @@ Data Scientists require about **6 skills** on average per job posting. By learni
 Predictive modeling with XGBoost confirmed this pathway: a simulated Analyst who adds these skills can realistically reach a **Data Scientist salary above the market median** in Europe.
 
 **Conclusion**
-Upskilling strategically is the most effective way for a **Data Analyst** to unlock higher-paying opportunities. Focusing on languages like R or SAS, cloud platforms such as AWS/Azure, and machine learning frameworks like Spark, TensorFlow or PyTorch provides the leverage to move into **Data Science** roles with strong salary growth potential.
+Upskilling strategically is the most effective way for a **Data Analyst** to unlock higher-paying opportunities. Focusing on languages like R or SAS, cloud platforms such as AWS/Azure, and big data/machine learning frameworks like Spark, TensorFlow or PyTorch provides the leverage to move into **Data Science** roles with strong salary growth potential.
 
 **Thanks for reading — and feel free to ⭐ the project or leave feedback on GitHub if you found it helpful!**
